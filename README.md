@@ -19,8 +19,10 @@ Ullared Shopping reserves the right to update this Privacy Policy at any time. W
 All icons used in Ullared Shopping are sourced from credible platforms. All credit goes to Rusmir Arnautovic for their creation and contribution. For more information on the licensing and usage of these icons, please visit 
 
 https://rusmirarnautovic.com
+
 https://twitter.com/ideaisall
-https://www.instagram.com/ideaisall)
+
+https://www.instagram.com/ideaisall
 
 Rusmir Arnautovic
 @ideaisall
