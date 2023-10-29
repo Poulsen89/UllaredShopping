@@ -16,19 +16,42 @@ Ullared Shopping reserves the right to update this Privacy Policy at any time. W
 
 ## Icon Credits
 
-All icons used in Ullared Shopping are sourced from credible platforms. All credit goes to Rusmir Arnautovic for their creation and contribution. For more information on the licensing and usage of these icons, please visit 
+All icons used in Ullared Shopping are sourced from credible platforms. Credit goes to the following creators for their creations and contributions:
 
-https://rusmirarnautovic.com
+- Rusmir Arnautovic for various icons. More information on the licensing and usage can be found at:
+    - https://rusmirarnautovic.com
+    - https://twitter.com/ideaisall
+    - https://www.instagram.com/ideaisall
 
-https://twitter.com/ideaisall
+- Ainul Muttaqin for the icon "Wheelchair":
+    - https://thenounproject.com/icon/wheelchair-4444823/
 
-https://www.instagram.com/ideaisall
+- Aldric Rodríguez for the icon "Toilet":
+    - https://thenounproject.com/icon/toilet-813009/
 
-Rusmir Arnautovic
+- Abdul Matic for the icon "Pay Card":
+    - https://thenounproject.com/icon/pay-card-5640854/
 
+- Vasily Gedzun for the icon "Credit Card and Coin":
+    - https://thenounproject.com/icon/credit-card-and-coin-1560698/
 
-@ideaisall
+- Ary Prasetyo I for the icon "Fitting Room":
+    - https://thenounproject.com/icon/fitting-room-1680976/
 
+- Younghoon Hur for the icon "Elevator":
+    - https://thenounproject.com/icon/elevator-6214941/
+
+- Andriwidodo for the icon "Escalator":
+    - https://thenounproject.com/icon/escalator-1003586/
+
+- Hawraa Alsalman for the icon "Stairs":
+    - https://thenounproject.com/icon/stairs-1023960/
+
+- Guilherme Furtado for the icon "Eat":
+    - https://thenounproject.com/icon/eat-1603089/
+
+- Corpus Delicti for the icon "Diaper Change":
+    - https://thenounproject.com/icon/diaper-change-1110157/ 
 
 ## Contact Us
 
