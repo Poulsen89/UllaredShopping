@@ -52,7 +52,7 @@ All icons used in Ullared Shopping are sourced from credible platforms. Credit g
 
 - Corpus Delicti for the icon "Diaper Change":
     - https://thenounproject.com/icon/diaper-change-1110157/
-    - 
+    
 - Dot9 for the icon "Cartoon Tv":
     - https://thenounproject.com/icon/cartoon-tv-2773997/
 
