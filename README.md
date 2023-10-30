@@ -51,7 +51,33 @@ All icons used in Ullared Shopping are sourced from credible platforms. Credit g
     - https://thenounproject.com/icon/eat-1603089/
 
 - Corpus Delicti for the icon "Diaper Change":
-    - https://thenounproject.com/icon/diaper-change-1110157/ 
+    - https://thenounproject.com/icon/diaper-change-1110157/
+    - 
+- Dot9 for the icon "Cartoon Tv":
+    - https://thenounproject.com/icon/cartoon-tv-2773997/
+
+- Muhammad Tajudin for the icon "Baby Feeder":
+    - https://thenounproject.com/icon/baby-feeder-5248106/
+
+- Safitri for the icon "Coffe":
+    - https://thenounproject.com/icon/coffe-4762041/
+
+- Ayub Irawan for the icon "Escalator":
+    - https://thenounproject.com/icon/escalator-1584382/
+
+- Esih Sukaesih for the icon "Icon P":
+    - https://thenounproject.com/icon/p-6148593/
+
+- Nick Kinling for the icon "Smoking":
+    - https://thenounproject.com/icon/smoking-100084/
+
+- IconStock for the icon "Store":
+    - https://thenounproject.com/icon/store-5847552/
+
+- Pham Duy Phuong Hung for the icon "Hair Stylist":
+    - https://thenounproject.com/icon/hair-stylist-1773449/
+)
+
 
 ## Contact Us
 
