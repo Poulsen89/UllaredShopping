@@ -1,18 +1,32 @@
 # Privacy Policy for Ullared Shopping
 
-Last Updated: 2023-10-02
+Last Updated: 2023-11-11
 
 ## Introduction
 
 Welcome to Ullared Shopping. We value your privacy and want to make clear that we do not collect, store, or share any personal or non-personal information when you use our services.
 
-## No Information Collected
+## Data Collection
 
-When you visit or use our App[UllaredShopping], we do not collect any personal identification information or non-personal identification information. Our services are designed to respect your privacy.
+While using our Ullared Shopping app, we collect certain types of information. This data helps us improve our services and provide a better user experience.
 
-## Changes to this Privacy Policy
+## Data Linked to You
 
-Ullared Shopping reserves the right to update this Privacy Policy at any time. When we do, we will post a notification on the main page of our website and revise the updated date at the top of this page.
+The following data may be collected but not linked to your identity:
+
+Contact Information: This includes details such as your email address, which may be used for account setup or communication purposes.
+User Content: Any content that you create, upload, or share within the app, such as photos, text, or other materials.
+Identifiers: Unique identifiers, device IDs, or other identifiers that help us personalize your app experience or track app usage for analytics purposes.
+Diagnostics: Information related to app performance, crash reports, and other diagnostic data that help us identify and address technical issues.
+Use of Data
+
+## Data Security
+
+We take the security of your data seriously and implement appropriate measures to protect it against unauthorized access or disclosure.
+
+Changes to this Privacy Policy
+
+Ullared Shopping reserves the right to update this Privacy Policy at any time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the “Last Updated” date.
 
 ## Icon Credits
 
