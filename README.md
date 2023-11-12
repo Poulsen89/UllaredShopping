@@ -4,7 +4,7 @@ Last Updated: 2023-11-11
 
 ## Introduction
 
-Welcome to Ullared Shopping. We value your privacy and want to make clear that we do not collect, store, or share any personal or non-personal information when you use our services.
+Welcome to Ullared Shopping. We value your privacy and want to make clear that we do not share any personal or non-personal information when you use our services.
 
 ## Data Collection
 
