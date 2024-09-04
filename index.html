@@ -4,33 +4,43 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ullared Shopping</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Poppins', sans-serif;
             margin: 0;
             padding: 0;
-            background-color: white;
+            background-color: #f4f4f9;
             color: #333;
+            overflow-x: hidden;
         }
 
         header {
             background-color: #89d1e7;
+            padding: 50px 20px;
             text-align: center;
-            padding: 40px;
             color: #fff;
+            border-radius: 0 0 40px 40px;
+            position: relative;
         }
 
+            header img {
+                width: 150px;
+                margin-bottom: 10px;
+            }
+
             header h1 {
-                font-size: 36px;
+                font-size: 42px;
+                font-weight: 600;
                 margin: 0;
             }
 
         .ullared {
-            color: #000; /* Svart färg för ULLARED */
+            color: #04263F; /* Gul färg för "ULLARED" */
         }
 
         .shopping {
-            color: #fff; /* Vit färg för SHOPPING */
+            color: #fff; /* Vit färg för "SHOPPING" */
         }
 
         header p {
@@ -39,66 +49,98 @@
         }
 
         .container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-wrap: wrap;
-            padding: 40px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 40px 20px;
+            max-width: 1200px;
+            margin: 0 auto;
         }
 
         .box {
-            width: 300px;
-            height: 200px;
-            background-color: #f2f2f2;
-            margin: 20px;
-            text-align: center;
+            background-color: #fff;
+            border-radius: 20px;
             padding: 20px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+            text-align: center;
         }
+
+            .box:hover {
+                transform: translateY(-10px);
+                box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            }
 
             .box h2 {
                 font-size: 24px;
-                margin-bottom: 10px;
+                margin-bottom: 15px;
+                font-weight: 600;
+                color: #04263F; /* Ändra färgen till din specifika färg */
             }
 
             .box p {
                 font-size: 16px;
                 color: #666;
+                margin-bottom: 20px;
             }
 
-        .appstore {
-            text-align: center;
-            margin-top: 40px;
+            .box img {
+                width: 120px;
+                height: auto;
+                margin-bottom: 10px;
+            }
+
+        .appstore img {
+            width: 150px;
+            vertical-align: middle;
+            margin-top: 20px;
         }
 
-            .appstore img {
-                width: 150px;
+        .policy-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #89d1e7;
+            color: #fff;
+            text-decoration: none;
+            font-family: 'Poppins', sans-serif;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+            vertical-align: middle;
+        }
+
+            .policy-button:hover {
+                background-color: #357ab8;
             }
     </style>
 </head>
 <body>
 
     <header>
-        <img src="https://raw.githubusercontent.com/Poulsen89/UllaredShopping/fbe5cfc22ee7d22dd6af70cb648ef66068f82975/Logo.png" alt="Ullared Logo" style="width: 200px;">
+        <img src="https://raw.githubusercontent.com/Poulsen89/UllaredShopping/fbe5cfc22ee7d22dd6af70cb648ef66068f82975/Logo.png" alt="Ullared Logo">
         <h1><span class="ullared">ULLARED</span> <span class="shopping">SHOPPING</span></h1>
         <p>Gör din shopping enklare, roligare och smartare!</p>
     </header>
 
     <div class="container">
         <div class="box">
+            <img src="https://raw.githubusercontent.com/Poulsen89/UllaredShopping/fbe5cfc22ee7d22dd6af70cb648ef66068f82975/Logo.png" alt="Kundvagn bild">
             <h2>Kundvagn</h2>
             <p>Ta kontroll över din shoppingupplevelse på Ullared med en smart kundvagn</p>
         </div>
 
         <div class="box">
+            <img src="https://raw.githubusercontent.com/Poulsen89/UllaredShopping/fbe5cfc22ee7d22dd6af70cb648ef66068f82975/Logo.png" alt="Karta bild">
             <h2>Karta</h2>
             <p>Vinka adjö till de traditionella papperskartorna och välkomna en interaktiv digital version direkt i din telefon.</p>
         </div>
     </div>
+    <div class="appstore">
+        <a href="policys.html" class="policy-button">Användarvillkor</a>
+    </div>
 
     <div class="appstore">
         <a href="#">
-            <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Ladda ner på Appstore">
+            <img src="https://raw.githubusercontent.com/Poulsen89/UllaredShopping/6da6f217d4cc1dbddfab9a9aad55057250e5f859/AppStore.svg" alt="Ladda ner på Appstore">
         </a>
     </div>
 
