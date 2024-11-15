@@ -24,16 +24,16 @@
             position: relative;
         }
 
-            header img {
-                width: 150px;
-                margin-bottom: 10px;
-            }
+        header img {
+            width: 150px;
+            margin-bottom: 10px;
+        }
 
-            header h1 {
-                font-size: 42px;
-                font-weight: 600;
-                margin: 0;
-            }
+        header h1 {
+            font-size: 42px;
+            font-weight: 600;
+            margin: 0;
+        }
 
         .ullared {
             color: #04263F; /* Gul färg för "ULLARED" */
@@ -49,46 +49,19 @@
         }
 
         .container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
             padding: 40px 20px;
             max-width: 1200px;
             margin: 0 auto;
         }
 
-        .box {
-            background-color: #fff;
-            border-radius: 20px;
-            padding: 20px;
+        .container video {
+            max-width: 100%;
+            border-radius: 10px;
             box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-            text-align: center;
         }
-
-            .box:hover {
-                transform: translateY(-10px);
-                box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-            }
-
-            .box h2 {
-                font-size: 24px;
-                margin-bottom: 15px;
-                font-weight: 600;
-                color: #04263F; /* Ändra färgen till din specifika färg */
-            }
-
-            .box p {
-                font-size: 16px;
-                color: #666;
-                margin-bottom: 20px;
-            }
-
-            .box img {
-                width: 120px;
-                height: auto;
-                margin-bottom: 10px;
-            }
 
         .appstore {
             display: flex;
@@ -96,10 +69,10 @@
             margin-top: 20px;
         }
 
-            .appstore img {
-                width: 150px;
-                vertical-align: middle;
-            }
+        .appstore img {
+            width: 150px;
+            vertical-align: middle;
+        }
 
         .policy-button {
             display: inline-block;
@@ -113,9 +86,9 @@
             vertical-align: middle;
         }
 
-            .policy-button:hover {
-                background-color: #FFF;
-            }
+        .policy-button:hover {
+            background-color: #FFF;
+        }
     </style>
 </head>
 <body>
@@ -127,18 +100,12 @@
     </header>
 
     <div class="container">
-        <div class="box">
-            <img src="https://raw.githubusercontent.com/Poulsen89/UllaredShopping/d9797e4804c6b63b3ec2e8b76aa6c6c6c02652d5/3.svg" alt="Kundvagn bild">
-            <h2>Kundvagn</h2>
-            <p>Ta kontroll över din shoppingupplevelse på Ullared med en smart kundvagn</p>
-        </div>
-
-        <div class="box">
-            <img src="https://raw.githubusercontent.com/Poulsen89/UllaredShopping/d9797e4804c6b63b3ec2e8b76aa6c6c6c02652d5/1.svg" alt="Karta bild">
-            <h2>Karta</h2>
-            <p>Vinka adjö till de traditionella papperskartorna och välkomna en interaktiv digital version direkt i din telefon.</p>
-        </div>
+        <video autoplay loop muted>
+            <source src="video1.mp4" type="video/mp4">
+            Din webbläsare stödjer inte videouppspelning.
+        </video>
     </div>
+
     <div class="appstore">
         <a href="policys.html" class="policy-button">Användarvillkor</a>
     </div>
