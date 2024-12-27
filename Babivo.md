@@ -29,8 +29,7 @@ Since no data is collected or stored, your privacy is inherently protected. The 
 Babivo reserves the right to update this Privacy Policy at any time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
 
 ## Contact Us ##
-If you have any questions about this Privacy Policy, please contact us at:
-[Your preferred contact method]
+If you have any questions about this Privacy Policy, please contact us.
 
 ## Important Note ##
 This app is designed as a baby monitoring tool and should not replace physical supervision of a child. Never leave a child unattended, regardless of technical aids being used.
