@@ -1,6 +1,6 @@
 <h1>Cynea Privacy Policy</h1>
 
-<p>Last Updated: [Date]</p>
+<p>Last Updated: [2025-04-01]</p>
 
 <h2>1. Introduction</h2>
 
