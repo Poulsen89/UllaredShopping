@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cynea Privacy Policy</title>
+</head>
+<body>
+
+<h1>Cynea Privacy Policy</h1>
+
+<p>Last Updated: [Date]</p>
+
+<h2>1. Introduction</h2>
+
+<p>Welcome to Cynea. We value your privacy. This app does not collect or store any personal data. All data you enter into the app is stored locally on your device only.</p>
+
+<h2>2. No Data Collection</h2>
+
+<p>Cynea does not collect, store, or share any personal information.</p>
+
+<h2>3. Data Security</h2>
+
+<p>Since no data leaves your device, no additional security measures are required.</p>
+
+<h2>4. Changes to this Privacy Policy</h2>
+
+<p>We reserve the right to update this privacy policy as needed. However, since no data is stored, we do not need to notify you of changes.</p>
+
+<h2>5. Contact Us</h2>
+
+<p>If you have any questions about this privacy policy, please contact us at:</p>
+
+<ul>
+    <li>Email: [Your Email Address]</li>
+</ul>
+
+</body>
+</html>
