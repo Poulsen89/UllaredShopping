@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Cynea Privacy Policy</title>
-</head>
-<body>
+
 
 <h1>Cynea Privacy Policy</h1>
 
@@ -30,7 +25,7 @@
 <p>If you have any questions about this privacy policy, please contact us at:</p>
 
 <ul>
-    <li>Email: [Your Email Address]</li>
+    <li>Email: Andreas.Poulsen89@hotmail.com</li>
 </ul>
 
 </body>
