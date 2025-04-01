@@ -1,12 +1,10 @@
-
-
 <h1>Cynea Privacy Policy</h1>
 
 <p>Last Updated: [Date]</p>
 
 <h2>1. Introduction</h2>
 
-<p>Welcome to Cynea. We value your privacy. This app does not collect or store any personal data. All data you enter into the app is stored locally on your device only.</p>
+<p>Welcome to Cynea. Cynea is an app that helps you track your menstrual cycle, predict fertile days, and log daily events. This app is designed to provide you with information and insights about your cycle, but it does not collect or store any personal data. All data you enter into the app is stored locally on your device only.</p>
 
 <h2>2. No Data Collection</h2>
 
